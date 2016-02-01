@@ -4,7 +4,7 @@ An image manipulating tool based out of a Digital Signal Analysis and Applicatio
 
 Worked upon by :
 Amar Budhiraja(amar.budhiraja@students.iiit.ac.in)
-Rohita Darge(rohita.darga@students.iiit.ac.in)
+Rohita Darga(rohita.darga@students.iiit.ac.in)
 
 
 
